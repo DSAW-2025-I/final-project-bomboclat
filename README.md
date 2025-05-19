@@ -1,6 +1,10 @@
-Juan Jose Campos Valderrama,
+Juan Jose Campos Valderrama
 
 Victor Andres Luna Mejia
+
+Repositorio 
+https://github.com/vykymoon/AppQM.git
+
 
 # QuickMeal - Sistema de Inventario y Pedidos para Puntos de Venta Universitarios
 
