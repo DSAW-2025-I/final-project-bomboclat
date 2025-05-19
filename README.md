@@ -2,6 +2,9 @@ Juan Jose Campos Valderrama
 
 Victor Andres Luna Mejia
 
+Despliegue en Vercel
+https://quick-meal-theta.vercel.app/
+
 Repositorio 
 https://github.com/vykymoon/AppQM.git
 
