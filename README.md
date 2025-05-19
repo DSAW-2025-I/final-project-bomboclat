@@ -1,4 +1,5 @@
-Juan Jose Campos Valderrama
+Juan Jose Campos Valderrama,
+
 Victor Andres Luna Mejia
 
 # QuickMeal - Sistema de Inventario y Pedidos para Puntos de Venta Universitarios
